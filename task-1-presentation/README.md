@@ -1,3 +1,7 @@
+NAME - ARUSH MISHRA
+REGNO - 25BCE10944
+
+
 https://canva.link/oneowodq5ruaxlh
 
 
