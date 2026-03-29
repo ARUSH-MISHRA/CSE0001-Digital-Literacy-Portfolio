@@ -1,2 +1,1 @@
-[Generate a digital literacy portfolio project report for Arush Mishra Course Code CSE0001, Branch B.Tech C...pal University including a Title Page, Introduction, and five specific tasks Task 1 Infographic design us.pdf](https://github.com/user-attachments/files/26331748/Generate.a.digital.literacy.portfolio.project.report.for.Arush.Mishra.Course.Code.CSE0001.Branch.B.Tech.C.pal.University.including.a.Title.Page.Introduction.and.five.specific.tasks.Task.1.Infographic.design.us.pdf)
-
+[pro repo.pdf](https://github.com/user-attachments/files/26331770/pro.repo.pdf)
