@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Name:** Arush Mishra
-- **Registration Number:** YOUR_REG_NO
+- **Registration Number:** 25BCE10944
 - **Branch:** B.Tech CSE
 - **Year:** First Year
 
